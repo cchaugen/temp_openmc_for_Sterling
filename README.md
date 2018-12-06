@@ -1,1 +1,1 @@
-# temp_openmc_for_Sterling
+# temp openmc for Sterling
